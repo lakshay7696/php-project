@@ -1,0 +1,12 @@
+admin login -> insert delete search display(only same type) 
+without login -> see all record not segregated 
+signup -> admin
+signup doesnt mean adding a new contact 
+signup first to become admin 
+admin logins and then add delete and search details 
+
+showusers.php displays all records of all user types
+while, display.php displays records of only same user types as that of loged in user
+ 
+need to change insert display delete and showusers page 
+will do it in next week...probably :P... 
